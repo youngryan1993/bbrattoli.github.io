@@ -68,23 +68,11 @@ news:
           
         - time: February 2018
           title: I finished my undergaduate course and got 2nd ranked in school of engineering 
-          National Science and Technology Scholarship
-            2016 - 2017
-            HUAWEI Undergraduate Research Scholarship
-            2016 - 2017
-            Sogang Emeth Scholarship
-            2016 - 2017
-            Dean’s List
-            Spring 2015, Fall 2015, Spring 2016, Fall 2016
-            Member of Alpha Sigma Nu
-            Since 2016
-            Member of Young Engineers Honor Society
-            Since 2016
-          
+       
      
 
 education:
-    - degree: Masterin Computer vision and Machine learning
+    - degree: Master in Computer vision and Machine learning
       university: KAIST (Daejeon, Korea)
       time: 2018 - current
       details: I published 3 international conference paper.
@@ -118,13 +106,6 @@ experiences:
           #-Computer Vision
           #-Deep Learning
 
-honors and awards:
-    - role: AI research internship
-      time: June 2019 - Present
-      company: Kakao Corporation, Korea
-      details: |
-          #-Computer Vision
-          #-Deep Learning
           
           
 #projects:
