@@ -154,7 +154,16 @@ publications:
         authors: Youngeun Kim, Taekyung Kim, Seunghyeon Kim, and Changick Kim
         conference: VCIP (oral), 2018
 
+honors:
+    title: Publications
+    intro: |
+      
 
+    papers:
+      - title: "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking"
+        authors: Hankyeol Lee, Seokeon Choi, Youngeun Kim, and Changick Kim
+        conference: BMVC, 2019
+        
 skills:
     title: Skills &amp; Proficiency
 
