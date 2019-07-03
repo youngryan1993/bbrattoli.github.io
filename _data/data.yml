@@ -40,7 +40,9 @@ career-profile:
     title: Career Profile
     summary: |
       I'm pursuing master degree at Korea Advanced Institute of Science and Technology (KAIST).
-      After finishing master degree, I am planning to delve into hardware deep learning accerleration.
+      While doing research in high-level software algorithm, I felt a lot of inconvenience on deep-learning training time and memory issue.
+      These days, a deep neural network requires large memory and training time even though they adopt a parallel computing approach.
+      Therfore, after finishing master degree, I am planning to delve into hardware deep learning accerleration.
 
 news:
     title: News
@@ -94,15 +96,15 @@ educationcomplete:
       time: 2012 - 2018
       details: |
         Bachelor degree in Electronic Engineering 
-        #-During pursing my Bachelor degree, I learned overall concept of Computer Architecture and showed outstanding performance in the class. Moreover, I experienced designing an digital circuit in Digital Signal Processing class. In this class, I designed basic filter system by FPGA programming using Verilog. Furthermore, I also made a circuit and coded on the Microprocessor in Microprocessor Laboratory Class. At that time, I designed the device for learning braille by connecting LCD, dot buttons, and processor.  
+        # During pursing my Bachelor degree, I learned overall concept of Computer Architecture and showed outstanding performance in the class. Moreover, I experienced designing an digital circuit in Digital Signal Processing class. In this class, I designed basic filter system by FPGA programming using Verilog. Furthermore, I also made a circuit and coded on the Microprocessor in Microprocessor Laboratory Class. At that time, I designed the device for learning braille by connecting LCD, dot buttons, and processor.  
 
 experiences:
     - role: AI research internship
       time: June 2019 - Present
       company: Kakao Corporation, Korea
       details: |
-          #-Computer Vision
-          #-Deep Learning
+          # Computer Vision
+          # Deep Learning
 
 #projects:
     #title: Projects
