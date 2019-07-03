@@ -35,7 +35,6 @@ sidebar:
         link:
 
       - item: Hit the gym
-        link:
 
 career-profile:
     title: Career Profile
@@ -66,7 +65,7 @@ news:
           title: Paper accepted as oral at VCIP18 in Taichung, Taiwan
           
         - time: February 2018
-          title: I finish my undergaduate course and get 2nd ranked in school of engineering 
+          title: I finished my undergaduate course and got 2nd ranked in school of engineering 
           
      
 
@@ -95,22 +94,20 @@ educationcomplete:
       time: 2012 - 2018
       details: |
         Bachelor degree in Electronic Engineering
-
+        # During pursing my Bachelor degree, I learned overall concept of Computer Architecture and showed outstanding performance in the class. Moreover, I experienced designing an digital circuit in Digital Signal Processing class. In this class, I designed basic filter system by FPGA programming using Verilog. Furthermore, I also made a circuit and coded on the Microprocessor in Microprocessor Laboratory Class. At that time, I designed the device for learning braille by connecting LCD, dot buttons, and processor.  
 
 experiences:
     - role: AI research internship
       time: June 2019 - Present
       company: Kakao Corporation, Korea
       details: |
-        AI research 
-
           # Computer Vision
           # Deep Learning
 
 #projects:
     #title: Projects
     #intro: >
-      #You can list your side projects or open source libraries in this
+      #You can 
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
