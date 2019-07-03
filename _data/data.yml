@@ -93,16 +93,16 @@ educationcomplete:
       university: Sogain University (Seoul, Korea)
       time: 2012 - 2018
       details: |
-        Bachelor degree in Electronic Engineering
-        # During pursing my Bachelor degree, I learned overall concept of Computer Architecture and showed outstanding performance in the class. Moreover, I experienced designing an digital circuit in Digital Signal Processing class. In this class, I designed basic filter system by FPGA programming using Verilog. Furthermore, I also made a circuit and coded on the Microprocessor in Microprocessor Laboratory Class. At that time, I designed the device for learning braille by connecting LCD, dot buttons, and processor.  
+        Bachelor degree in Electronic Engineering 
+        #-During pursing my Bachelor degree, I learned overall concept of Computer Architecture and showed outstanding performance in the class. Moreover, I experienced designing an digital circuit in Digital Signal Processing class. In this class, I designed basic filter system by FPGA programming using Verilog. Furthermore, I also made a circuit and coded on the Microprocessor in Microprocessor Laboratory Class. At that time, I designed the device for learning braille by connecting LCD, dot buttons, and processor.  
 
 experiences:
     - role: AI research internship
       time: June 2019 - Present
       company: Kakao Corporation, Korea
       details: |
-          # Computer Vision
-          # Deep Learning
+          #-Computer Vision
+          #-Deep Learning
 
 #projects:
     #title: Projects
