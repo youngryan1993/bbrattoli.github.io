@@ -72,13 +72,13 @@ news:
      
 
 education:
-    - degree: Master in Computer vision and Machine learning
+    - degree: Master in EE
       university: KAIST (Daejeon, Korea)
       time: 2018 - current
       details: I published 3 international conference paper.
 
      
-    - degree: Bachelor Degree
+    - degree: Bachelor Degree in EE
       university: Sogang University (Seoul, Korea)
       time: 2012 - 2018
       details: Summa Cum Laude / 2 years military service
@@ -111,15 +111,34 @@ experiences:
 projects:
     title: Honors
     intro: >
-      You can 
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     
 
     assignments:
-      - title: Velocity
+      - title: National Science and Technology Scholarship
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "2016 - 2017"
+        
+      - title: HUAWEI Undergraduate Research Scholarship
+        link: "#hook"
+        tagline: "2016 - 2017
+        
+      - title: Sogang Emeth Scholarship
+        link: "#hook"
+        tagline: "2016 - 2017"
+        
+       - title: Dean’s List
+        link: "#hook"
+        tagline: "Spring 2015, Fall 2015, Spring 2016, Fall 2016"       
 
+       - title: Member of Alpha Sigma Nu
+        link: "#hook"
+        tagline: "Since 2016" 
+        
+       - title: Member of Young Engineers Honor Society
+        link: "#hook"
+        tagline: "Since 2016" 
+        
+        
       #- title: DevStudio
         #link: "#"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
@@ -144,15 +163,15 @@ publications:
     papers:
       - title: "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking"
         authors: Hankyeol Lee, Seokeon Choi, Youngeun Kim, and Changick Kim
-        conference: BMVC, 2019
+        conference: British Machine Vision Conference (BMVC), 2019
 
       - title: "CNN-based Semantic Segmentation Using Level Set Loss"
         authors: Youngeun Kim, Seunghyeon Kim, Taekyung Kim, and Changick Kim
-        conference: WACV, 2019
+        conference: IEEE Winter Conference on Applications of Computer Vision (WACV), 2019
 
       - title: "Weakly Supervised Semantic Segmentation Using Color Adjacency Loss"
         authors: Youngeun Kim, Taekyung Kim, Seunghyeon Kim, and Changick Kim
-        conference: VCIP (oral), 2018
+        conference: IEEE International Conference on Visual Communications and Image Processing (VCIP), 2018
 
         
 skills:
