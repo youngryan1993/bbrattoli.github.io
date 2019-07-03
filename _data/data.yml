@@ -118,14 +118,29 @@ projects:
         link: "#hook"
         tagline: "2016 ~ 2017"
         
-      - title: National Science and Technology Scholarship
+      - title: HUAWEI Undergraduate Research Scholarship
         link: "#"
-        tagline: "2016 - 2017"        
+        tagline: "2016 ~ 2017"        
+
+      - title: Sogang Emeth Scholarship
+        link: "#"
+        tagline: "2016 ~ 2017"        
+
+      - title: Dean’s List (Best student performance award)
+        link: "#"
+        tagline: "Spring 2015, Fall 2015, Spring 2016, Fall 2016"        
+
+      - title: Member of Alpha Sigma Nu
+        link: "#"
+        tagline: "Since 2016"        
+
+      - title: Member of Young Engineers Honor Society
+        link: "#"
+        tagline: "Since 2016"        
+ 
 
 
 
-
-        
       #- title: DevStudio
         #link: "#"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
