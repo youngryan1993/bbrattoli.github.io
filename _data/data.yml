@@ -108,17 +108,17 @@ experiences:
 
           
           
-#projects:
-    #title: Projects
-    #intro: >
-      #You can 
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Honors
+    intro: >
+      You can 
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       #- title: DevStudio
         #link: "#"
@@ -154,26 +154,6 @@ publications:
         authors: Youngeun Kim, Taekyung Kim, Seunghyeon Kim, and Changick Kim
         conference: VCIP (oral), 2018
 
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking"
-        authors: Hankyeol Lee, Seokeon Choi, Youngeun Kim, and Changick Kim
-        conference: BMVC, 2019
-
-
-honors:
-    title: Honors
-    intro: |
-      
-
-    papers:
-      - title: "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking"
-        authors: Hankyeol Lee, Seokeon Choi, Youngeun Kim, and Changick Kim
-        conference: BMVC, 2019
         
 skills:
     title: Skills &amp; Proficiency
