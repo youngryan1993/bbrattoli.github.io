@@ -15,7 +15,7 @@ sidebar:
     email: youngryan1993@gmail.com
     phone: 
     website: youngryan1993.github.io #do not add http://
-    linkedin: Youngeun Kim
+    linkedin: youngeun-kim-3b97b6179
     github: youngryan1993
  
 
@@ -40,8 +40,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field.
+      I'm pursuing master degree at Korea Advanced Institute of Science and Technology (KAIST).
+      After finishing master degree, I am planning to delve into deep learning accerleration.
 
 news:
     title: News
@@ -49,55 +49,34 @@ news:
         
     
     posts:
+        
+        - time: July 2019
+          title: Paper accepted as poster at BMCV19 in Cardiff, UK
+
         - time: March 2019
           title: Two papers submitted to ICCV19
-        
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
-        
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
-        
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+          
+        - time: September 2018
+          title: Paper accepted as spotlight at WACV19 in Cona, Hawaii
+          
+        - time: May 2018
+          title: Paper accepted as oral at VCIP18 in Taichung, Taiwan
+          
+        - time: February 2018
+          title: I finish my undergaduate course and get 2nd ranked in school of engineering! (Sogang University, Korea)
+     
 
 education:
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
+    - degree: Masterin Computer vision and Machine learning
+      university: KAIST (Daejeon, Korea)
+      time: 2018 - current
+      details: I published 3 international conference paper.
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
+     
     - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+      university: Sogang University (Seoul, Korea)
+      time: 2012 - 2018
+      details: Summa Cum Laude / 2 years military service
 
 
 educationcomplete:
