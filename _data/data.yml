@@ -116,9 +116,10 @@ projects:
     assignments:
       - title: National Science and Technology Scholarship
         link: "#hook"
-        tagline: "2016 - 2017"
+        tagline: "2016 ~ 2017"
+        
       - title: National Science and Technology Scholarship
-        link: "#hook"
+        link: "#"
         tagline: "2016 - 2017"        
 
 
