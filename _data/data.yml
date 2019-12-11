@@ -51,20 +51,23 @@ news:
     
     posts: 
     
+         - time: March 2019
+          title: Two papers submitted to CVPR2020
+          
+         - time: March 2019
+          title: Two papers accepted as spotlight at WACV2020
+          
         - time: July 2019
           title: Start AI research internship program in Kakao Corp.
           
         - time: July 2019
-          title: Paper accepted as poster at BMCV19 in Cardiff, UK
-
-        - time: March 2019
-          title: Two papers submitted to ICCV19
+          title: Paper accepted as poster at BMCV2019 in Cardiff, UK 
           
         - time: September 2018
-          title: Paper accepted as spotlight at WACV19 in Cona, Hawaii
+          title: Paper accepted as spotlight at WACV2019 in Cona, Hawaii
           
         - time: May 2018
-          title: Paper accepted as oral at VCIP18 in Taichung, Taiwan
+          title: Paper accepted as oral at VCIP2018 in Taichung, Taiwan
           
         - time: February 2018
           title: I finished my undergaduate course and got 2nd ranked in school of engineering 
@@ -75,7 +78,7 @@ education:
     - degree: Master in EE
       university: KAIST (Daejeon, Korea)
       time: 2018 - current
-      details: I published 3 international conference paper.
+      details: I published 5 international conference paper.
 
      
     - degree: Bachelor Degree in EE
@@ -163,6 +166,15 @@ publications:
       
 
     papers:
+    
+      - title: "RPM-Net:  Robust Pixel-Level Matching Networks forSelf-Supervised Video Object Segmentation"
+        authors: Youngeun Kim, Seokeon Choi, Hankyeol Lee, Taekyung Kim, and Changick Kim
+        conference: IEEE Winter Conference on Applications of Computer Vision (WACV), 2020
+      
+      - title: "Combinational Class Activation Maps for Weakly Supervised ObjectLocalization"
+        authors: Seunghan Yang, Yoonhyung Kim, Youngeun Kim, and Changick Kim
+        conference: IEEE Winter Conference on Applications of Computer Vision (WACV), 2020      
+        
       - title: "Bilinear Siamese Networks with Background Suppression for Visual Object Tracking"
         authors: Hankyeol Lee, Seokeon Choi, Youngeun Kim, and Changick Kim
         conference: British Machine Vision Conference (BMVC), 2019
