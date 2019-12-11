@@ -46,9 +46,7 @@ career-profile:
 
 news:
     title: News
-    intro: |
-        
-    
+    intro: |  
     posts:
          - time: December 2019
           title: Two papers accepted as spotlight at WACV2020
