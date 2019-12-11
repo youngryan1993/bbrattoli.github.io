@@ -49,8 +49,14 @@ news:
     intro: |  
     posts:
 
-        - time: July 2019
-          title: Start AI research internship program in Kakao Corp.
+        - time: December 2019
+          title: I successfully defended my master's thesis!
+          
+        - time: December 2019
+          title: Two papers accepted at WACV2020          
+          
+        - time: November 2019
+          title: Two papers submitted at CVPR2020          
           
         - time: July 2019
           title: Start AI research internship program in Kakao Corp.
