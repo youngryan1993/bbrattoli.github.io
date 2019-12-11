@@ -48,11 +48,7 @@ news:
     title: News
     intro: |  
     posts:
-         - time: December 2019
-          title: Two papers accepted as spotlight at WACV2020
-          
-         - time: November 2019
-          title: Two papers submitted to CVPR2020
+
       
         - time: July 2019
           title: Start AI research internship program in Kakao Corp.
