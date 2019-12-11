@@ -165,7 +165,6 @@ publications:
       
 
     papers:
-    
       - title: "RPM-Net:  Robust Pixel-Level Matching Networks forSelf-Supervised Video Object Segmentation"
         authors: Youngeun Kim, Seokeon Choi, Hankyeol Lee, Taekyung Kim, and Changick Kim
         conference: IEEE Winter Conference on Applications of Computer Vision (WACV), 2020
